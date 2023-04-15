@@ -1,0 +1,4 @@
+flask
+flask-cors
+openai-whisper
+torch

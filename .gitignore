@@ -1,0 +1,6 @@
+.history
+venv
+__pycache__
+.idea
+.vscode
+whispertranscribe-frontend/node_modules
